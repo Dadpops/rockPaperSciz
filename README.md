@@ -1,7 +1,6 @@
 # rockPaperSciz
 Rock Paper Scissors game made with Javascript 
 
-
 Runs confetti.js during victory as animation.
 
 Groups choices and what wins over what inside an object.
@@ -82,3 +81,9 @@ function computerRandomChoice() {
   }
 }
 ```
+
+Will be adding options for vs AI vs Human
+
+Lifetime wins 
+
+
